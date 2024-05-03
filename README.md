@@ -3,6 +3,7 @@
 <p> Este projeto foi feito para praticar e melhorar minhas habilidades em CSS e HTML. Ele consiste em uma tela de login simples com um design responsivo e amigável.
 
 ✔ Deploy: https://mleilane.github.io/Tela_de_Login/
+<img src = "https://github.com/mleilane/Tela_de_Login/blob/main/assets/mockup.png?raw=true">
 
 <h2 align="center"> Funcionalidades: 🧐</h2>
 
